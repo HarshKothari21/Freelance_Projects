@@ -6,10 +6,10 @@ startDate = datetime.datetime(2020, 1, 1, 0, 0, 0)
 endDate = datetime.datetime(2020,12,1,0,0,0)
 
 # keys and tokens from my Twitter Dev Console
-access_token="1286978390684102656-oWZlF2HOSfABnpTljM4XB6efndVoYv"
-access_token_secret="hyycDQAK5rvMup7qw4HQvPVo4ZY6BUiF8jSR1ppmWWJQa"
-consumer_key="VH9cMzWhLS6zHTIQ7V8g0WuJw"
-consumer_secret="l3eWhWIjQnH82MMY0M3tmLofHqHqBvEGCH1I7PdNc83cqdhRgX"
+access_token=""
+access_token_secret=""
+consumer_key=""
+consumer_secret=""
 
 
 # attempt authentication
